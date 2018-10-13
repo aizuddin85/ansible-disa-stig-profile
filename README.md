@@ -1,0 +1,1 @@
+# ansible-disa-stig-profile
